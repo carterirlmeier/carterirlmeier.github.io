@@ -385,14 +385,17 @@ header .inner {
 }
 .mp-slider .mp-ban-1 .row-1 {
 	padding:40px 0 0 0;
+	font-family: 'Open Sans', sans-serif;
 }
 .mp-slider .mp-ban-1 .row-2 {
 	font-size:110px;
 	line-height:130px;
 	margin:-45px 0 0 0;
+	font-family: 'Open Sans', sans-serif;
 }
 .mp-slider .mp-ban-1 .row-3 {
 	margin:-40px 0 0 0;
+	font-family: 'Open Sans', sans-serif;
 }
 .mp-slider .mp-ban-2 .row-1 {
 	padding:35px 0 0 0;
