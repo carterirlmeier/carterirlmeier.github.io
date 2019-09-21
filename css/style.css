@@ -391,11 +391,11 @@ header .inner {
 .mp-slider .mp-ban-1 .row-2 {
 	font-size:110px;
 	line-height:130px;
-	margin:-45px 0 0 0;
+	margin:-35px 0 0 0;
 	font-family: Impact;
 }
 .mp-slider .mp-ban-1 .row-3 {
-	margin:-40px 0 0 0;
+	margin:-30px 0 0 0;
 	font-family: Impact;
 }
 .mp-slider .mp-ban-2 .row-1 {
@@ -406,7 +406,7 @@ header .inner {
 }
 .mp-slider .mp-ban-2 .row-2, .mp-slider .mp-ban-2 .row-3 {
 	color:#ad0000;
-	margin:-40px 0 0 0;
+	margin:-30px 0 0 0;
 	font-family: Impact;
 }
 .mp-slider .mp-ban-3 .row-1 {
@@ -416,7 +416,7 @@ header .inner {
 	font-family: Impact;
 }
 .mp-slider .mp-ban-3 .row-2, .mp-slider .mp-ban-3 .row-3 {
-	margin:-40px 0 0 0;
+	margin:-30px 0 0 0;
 	font-family: Impact;
 }
 /********************** Navigation ************************/
